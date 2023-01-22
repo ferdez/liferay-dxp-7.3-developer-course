@@ -1,0 +1,1 @@
+create index IX_B1EE4ED8 on gradebook_Assignment (groupId);
